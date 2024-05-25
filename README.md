@@ -25,7 +25,7 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
-        <li><a href="#testing">Installation</a></li>
+        <li><a href="#testing">Testing</a></li>
       </ul>
     </li>
   </ol>
