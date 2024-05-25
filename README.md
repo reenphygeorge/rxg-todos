@@ -1,4 +1,6 @@
-<!-- PROJECT LOGO -->
+<div align="center">
+  <img src="https://res.cloudinary.com/rxg/image/upload/v1716671768/pika-1716671737261-1x_d1z06j.png"/>
+</div>
 <br />
 <div align="center">
   <h3 align="center">rxg-todos</h3>
