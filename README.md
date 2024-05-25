@@ -62,10 +62,10 @@ You need to install
 
 1. [jdk v17](https://www.oracle.com/in/java/technologies/downloads/#java17)
 2. [maven v3.9](https://maven.apache.org/download.cgi)
-3. [Node v20](https://nodejs.org/en/)
+3. [node v20](https://nodejs.org/en/)
 4. [pnpm](https://pnpm.io/)
-5. [Docker](https://docs.docker.com/get-docker/)
-6. [Docker Compose](https://docs.docker.com/compose/install/)
+5. [docker](https://docs.docker.com/get-docker/)
+6. [docker compose](https://docs.docker.com/compose/install/)
 
 ### Installation
 
@@ -87,9 +87,7 @@ You need to install
    docker compose up
    ```
 
-3. Copy the `.env.example` for each applications to `.env` in the same directory and fill the values required
-
-4. Start the api dev server
+3. Start the api dev server
 
    ```sh
    cd api/
@@ -100,6 +98,10 @@ You need to install
    ```sh
    mvn spring-boot:run
    ```
+
+4. Copy the `.env.example` in ui directory to `.env` in the same directory.
+   
+   > Create a kinde account at [kinde-auth](https://kinde.com/) and copy the required credentials from it.
 
 5. Start the web application dev server and open `http://localhost:3000`
 
